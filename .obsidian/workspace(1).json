@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "007c7421e5b6607e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fa4406f6e0ba3c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "010Inbox/FreeMemo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FreeMemo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "faf34aafacf0d6ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d6061558daceab1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c236a19d315fe663",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "172d75a639bc5819",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "affae6094c02e17c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c87713ca99d970fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "53c14ca707a65257",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "208212148a1a120c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2025-10-22.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2025-10-22へのバックリンク"
+            }
+          },
+          {
+            "id": "100060f7b3145387",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "First Test.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "First Testからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "7792f868b87a4bf9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "7f88999f0109f775",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "First Test.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "First Testのアウトライン"
+            }
+          },
+          {
+            "id": "ab0bdba8b27ccaa6",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
+            }
+          },
+          {
+            "id": "625183329a1fa06c",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-chat-view",
+              "state": {},
+              "icon": "wand-sparkles",
+              "title": "Smart composer chat"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "smart-composer:Open smart composer": false
+    }
+  },
+  "active": "8fa4406f6e0ba3c3",
+  "lastOpenFiles": [
+    "000Test/MarkDownTest.md",
+    "000Test/Campas.canvas",
+    "010Inbox/FreeMemo.md",
+    "000Test/First Test.md",
+    "030Material/036Kindle/Blyton-The Naughtiest Girl Naughtiest Girl Again.md",
+    "無題のファイル.base",
+    "000Test/TestTemplate.md",
+    "000Test/TableTest.md",
+    "010Inbox/00メモ.md",
+    "030Material/036Kindle/Tech-Gen AI - Turning Data into Creativity.md",
+    "030Material/036Kindle/Orwell-Animal Farm.md",
+    "030Material/036Kindle/Sachar-Marvin Redpost A Magic Crystal.md",
+    "030Material/036Kindle/English-一冊英単語　老人と海.md",
+    "030Material/036Kindle/Spinelli-Stargirl.md",
+    "030Material/036Kindle/Sachar-Someday Angeline.md",
+    "030Material/036Kindle/Blanchard-Who Moved My Cheese.md",
+    "030Material/036Kindle/SparkNotes-Island of the Blue Dolphins.md",
+    "030Material/036Kindle/Moran-CliffsNotes on Orwells Animal Farm.md",
+    "030Material/036Kindle/Lewin-Island of the Blue Dolphins.md",
+    "030Material/036Kindle/Thị-A Most Unlikely Hero, Vol. 1.md",
+    "030Material/036Kindle/Murphy-The Worst Witch.md",
+    "030Material/036Kindle/Gibbs-Spy School.md",
+    "030Material/036Kindle/Kwan-Crazy Rich Asians.md",
+    "030Material/036Kindle/Ering-The Tale of Despereaux.md",
+    "030Material/036Kindle/Blyton-The Naughtiest Girl Naughtiest Girl Is A Monitor.md",
+    "030Material/036Kindle/Blyton-Naughtiest Girl 4 Heres the Naughtiest Girl.md",
+    "030Material/036Kindle/Media-Goosebumps Complete Collection.md",
+    "030Material/036Kindle",
+    "030Material/031ObsidianNotion",
+    "020Document/021ObsidianNotion",
+    "031Material",
+    "021Document"
+  ]
+}

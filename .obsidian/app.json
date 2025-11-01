@@ -1,0 +1,10 @@
+{
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "userIgnoreFilters": [
+    "001Test/",
+    "990save/",
+    "900Template/copilot/"
+  ],
+  "alwaysUpdateLinks": true
+}

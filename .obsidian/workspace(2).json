@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "791ae1b4e36bbac3",
+    "type": "split",
+    "children": [
+      {
+        "id": "591c2ca03e3f36c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f5338ed464b25dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "010Inbox/011DailyNote/2025-10-28.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-10-28"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "faf34aafacf0d6ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d6061558daceab1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c236a19d315fe663",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "172d75a639bc5819",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "affae6094c02e17c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 255.5
+  },
+  "right": {
+    "id": "c87713ca99d970fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "53c14ca707a65257",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "208212148a1a120c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "000Test/2025-10-22.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2025-10-22へのバックリンク"
+            }
+          },
+          {
+            "id": "100060f7b3145387",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "First Test.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "First Testからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "7792f868b87a4bf9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "7f88999f0109f775",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "000Test/2025-10-22.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2025-10-22のアウトライン"
+            }
+          },
+          {
+            "id": "4380cd2dc1fa3fcd",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-chat-view",
+              "state": {},
+              "icon": "wand-sparkles",
+              "title": "Smart composer chat"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "bases:Create new base": false,
+      "command-palette:コマンドパレットを開く": false,
+      "templates:テンプレートを挿入": false,
+      "templater-obsidian:Templater": false,
+      "smart-composer:Open smart composer": false
+    }
+  },
+  "active": "9f5338ed464b25dd",
+  "lastOpenFiles": [
+    "010Inbox/012Idea/FreeMemo.md",
+    "010Inbox/011DailyNote/2025-10-28.md",
+    "010Inbox/011DailyNote/2025-10-26.md",
+    "010Inbox/011DailyNote/2025-10-26(1).md",
+    "020Document/021情報管理ノート/情報管理ノート.md",
+    "010Inbox/012Idea/Obsidian試用.md",
+    "030Material/035English/0357パタプラ/追加レッスン 1 タスクの依頼と確認 (1).md",
+    "030Material/035English/0357パタプラ/追加レッスン 2 タスクの依頼と確認 (2).md",
+    "030Material/035English/0357パタプラ",
+    "Clippings/Obsidianで“育てる”最強ノート術 —— あらゆる情報をつなげて整理しよう  増井 敏克 本  通販  Amazon.md",
+    "010Inbox/011DailyNote",
+    "010Inbox/無題のファイル.md",
+    "000Test/無題のファイル.md",
+    "無題のファイル 1.md",
+    "無題のファイル.md",
+    "無題のフォルダ",
+    "010Inbox/011Idea/無題のファイル.md",
+    "030Material/035English/無題のファイル.md",
+    "030Material/039Kindle/Roy-Gurney-A to Z Mysteries-1761355220341.md",
+    "030Material/039Kindle/Sachar-Marvin Redpost A Flying Birthday Cake.md",
+    "030Material/039Kindle/Roy-Gurney-A to Z Mysteries-1761355270713.md",
+    "030Material/039Kindle/Roy-Gurney-A to Z Mysteries-1761355257619.md",
+    "030Material/039Kindle/Roy-Gurney-A to Z Mysteries-1761355245435.md",
+    "030Material/039Kindle/Roy-Gurney-A to Z Mysteries-1761355238924.md",
+    "030Material/039Kindle/Sobol-Encyclopedia Brown Finds the Clues.md",
+    "030Material/039Kindle/Minato-Snyder-Confessions.md",
+    "030Material/039Kindle/Marshall-Forrest-An Island Story.md",
+    "030Material/039Kindle/Kinsella-Confessions of a Shopaholic.md",
+    "030Material/039Kindle/Albom-Tuesdays With Morrie.md",
+    "030Material/035English",
+    "030Material/033AI",
+    "020Document/025English",
+    "020Document/023AI",
+    "990save",
+    "020Document/021Idea",
+    "900Template"
+  ]
+}
