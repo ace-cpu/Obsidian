@@ -2,9 +2,11 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "./",
   "userIgnoreFilters": [
-    "001Test/",
-    "990save/",
-    "900Template/copilot/"
+    "900Template/",
+    "910Model/",
+    "999Test/",
+    "Clippings/",
+    "Clippings/"
   ],
   "alwaysUpdateLinks": true
 }

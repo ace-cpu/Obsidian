@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "791ae1b4e36bbac3",
+    "id": "61ecffb90a6e1e85",
     "type": "split",
     "children": [
       {
-        "id": "71bbca979e4f91ff",
+        "id": "3a2206fe6c561e6f",
         "type": "tabs",
         "children": [
           {
-            "id": "adbd3fceed5b7544",
+            "id": "a8145a1831e18c98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "020Document/021情報管理ノート/アイデアの整理・行動管理.md",
+                "file": "010Inbox/011DailyNote/2025-11-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "アイデアの整理・行動管理"
+              "title": "2025-11-02"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "faf34aafacf0d6ae",
+    "id": "c3543fbe1c5c92db",
     "type": "split",
     "children": [
       {
-        "id": "4d6061558daceab1",
+        "id": "4db3df3b37cf90a9",
         "type": "tabs",
         "children": [
           {
-            "id": "c236a19d315fe663",
+            "id": "06d67825a745d1cf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "172d75a639bc5819",
+            "id": "c9062f5b580990ff",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,68 +61,60 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "検索"
+              "title": "Search"
             }
           },
           {
-            "id": "affae6094c02e17c",
+            "id": "1323d64f4773a016",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "ブックマーク"
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 300
   },
   "right": {
-    "id": "c87713ca99d970fb",
+    "id": "76a341157a5c0ae4",
     "type": "split",
     "children": [
       {
-        "id": "53c14ca707a65257",
+        "id": "779e2864aa6978b7",
         "type": "tabs",
         "children": [
           {
-            "id": "208212148a1a120c",
+            "id": "0e4f090d38cdf158",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "bd6808645f7d76a8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
               "state": {
-                "file": "000Test/2025-10-22.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
+                "file": "010Inbox/011DailyNote/2025-11-02.md",
+                "followCursor": false,
                 "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "searchQuery": ""
               },
-              "icon": "links-coming-in",
-              "title": "2025-10-22へのバックリンク"
+              "icon": "lucide-list",
+              "title": "Outline of 2025-11-02"
             }
           },
           {
-            "id": "100060f7b3145387",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "First Test.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "First Testからのアウトゴーイングリンク"
-            }
-          },
-          {
-            "id": "7792f868b87a4bf9",
+            "id": "cd27353b02b1276a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,45 +125,42 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "タグ"
+              "title": "Tags"
             }
           },
           {
-            "id": "7f88999f0109f775",
+            "id": "b5e791cb3f4bfc1d",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "backlink",
               "state": {
-                "followCursor": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
                 "showSearch": false,
-                "searchQuery": ""
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               },
-              "icon": "lucide-list",
-              "title": "Outline"
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
-            "id": "0be10fb4f7e73c73",
+            "id": "4c6b4928b5c3998b",
             "type": "leaf",
             "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "602a90e01c9287c7",
-            "type": "leaf",
-            "state": {
-              "type": "smtcmp-chat-view",
-              "state": {},
-              "icon": "wand-sparkles",
-              "title": "Smart composer chat"
-            }
-          },
-          {
-            "id": "10322bc72453af2e",
+            "id": "3fd2dd7a048db8ac",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -181,7 +170,27 @@
             }
           },
           {
-            "id": "b994ccdc74e42eca",
+            "id": "bd681db9378a8e30",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "19797cd53ea45a0b",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-chat-view",
+              "state": {},
+              "icon": "wand-sparkles",
+              "title": "Smart composer chat"
+            }
+          },
+          {
+            "id": "7939e5e06dc344df",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -191,11 +200,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 364.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,44 +223,36 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "b994ccdc74e42eca",
+  "active": "a8145a1831e18c98",
   "lastOpenFiles": [
-    "README.md",
-    "030Material/033AI/VibeCodingSample.md",
-    "000MainNote/VibeCoding.md",
     "010Inbox/012Idea/FreeMemo.md",
-    "030Material/031情報管理ノート/Obsidian.md",
-    "020Document/021情報管理ノート/アイデアの整理・行動管理.md",
-    "020Document/021情報管理ノート/Obsidian使い方.md",
-    "001Test/TestTemplate.md",
-    "001Test/整理後のテスト.md",
+    "010Inbox/Pasted image 20251102153725.png",
+    "010Inbox/011DailyNote/2025-11-03.md",
+    "010Inbox/011DailyNote/2025-11-02.md",
+    "910Model/copilot/copilot-custom-prompts/Make longer.md",
+    "010Inbox/備忘メモ.md",
+    "900Template/DailyNote.md",
+    "900Template/Template1.md",
+    "030Document/031情報管理ノート/Markdown.md",
+    "030Document/031情報管理ノート/Markdown情報.md",
+    "010Inbox/011DailyNote/().md",
+    "010Inbox/011DailyNote/2025-11-02(1).md",
+    "010Inbox/PC 再インストール.md",
+    "000MainNote/情報管理.md",
     "000MainNote/AI.md",
-    "000MainNote/情報管理ノート.md",
-    "001Test/DailyNoteTest/2025-10-29.md",
-    "001Test/DailyNoteTest/2025-10-28.md",
-    "001Test/DailyNoteTest/2025-10-26.md",
-    "001Test/DailyNoteTest/2025-10-22.md",
-    "020Document/021情報管理ノート/Markdown.md",
-    "020Document/021情報管理ノート/情報管理ノート.md",
-    "030Material/031情報管理ノート/Untitled",
-    "020Document/023AI/VibeCodingSample(2).md",
-    "020Document/023AI/VibeCodingSample(1).md",
-    "020Document/023AI/VibeCodingSample.md",
-    "000MainNote/Obsidian.md",
-    "020Document/021情報管理ノート/Untitled.md",
-    "001Test/TableTest.md",
-    "001Test/MarkDownTest.md",
-    "001Test/First Test.md",
-    "Untitled.base",
-    "030Material/copilot-conversations",
-    "900Template/copilot/copilot-custom-prompts/Emojify.md",
-    "無題のフォルダ",
-    "900Template/copilot/copilot-custom-prompts",
-    "900Template/copilot",
-    "000MainNote",
-    "001Test/DailyNoteTest",
-    "001Test/Campas.canvas",
-    "030Material/035English/0357パタプラ",
-    "010Inbox/011DailyNote"
+    "030Document/031情報管理ノート/Obsidian機能の使い方.md",
+    "910Model/copilot/memory",
+    "000MainNote/Obsidian使い方.md",
+    "910Model",
+    "000MainNote/Untitled.md",
+    "010Inbox/011DailyNote/Untitled.md",
+    "030Document/033AI/生成AI.md",
+    "030Document/033AI/VibeCodingSample.md",
+    "030Document/033AI/AIRouter.md",
+    "030Document/033AI/VibeCoding.md",
+    "000MainNote/生成AI(1).md",
+    "README.md",
+    "000MainNote/AI(1).md",
+    "999Test/TableTest.md"
   ]
 }

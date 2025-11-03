@@ -16,7 +16,11 @@
   "folder_templates": [
     {
       "folder": "/",
-      "template": "900Template/テンプレート１.md"
+      "template": "900Template/Template1.md"
+    },
+    {
+      "folder": "010Inbox/011DailyNote",
+      "template": "900Template/DailyNote.md"
     }
   ],
   "enable_file_templates": false,
@@ -32,7 +36,7 @@
     ""
   ],
   "startup_templates": [
-    "900Template/テンプレート１.md"
+    "900Template/Template1.md"
   ],
   "intellisense_render": 1
 }
