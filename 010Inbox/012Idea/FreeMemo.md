@@ -6,7 +6,7 @@ aliases:
   - 自由メモ
 related:
 ---
- [[Obsidian機能の使い方]]
+ [[Obsidianの使い方]]
 
 ## 英語勉強関係は、保管庫を分ける？
 

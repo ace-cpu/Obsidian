@@ -1,6 +1,8 @@
 ---
 created: 2025-10-29
 tags:
+  - Master
+  - AI
 aliases:
 related:
 ---
@@ -8,7 +10,7 @@ related:
 
 ## Obsidian での AI 利用
 
-[[Obsidian機能の使い方]]
+[[Obsidianの使い方]]
 
 ## 生成AI
 

@@ -2,11 +2,15 @@
 created: 2025-10-28
 tags:
   - Markdown
+  - Obsidian
+  - 情報管理
 aliases:
+related:
 ---
 # Markdownの記法
 
 [Markdown](https://help.docbase.io/posts/13697)
+[[Markdown情報]]
 
 ## 基本
 

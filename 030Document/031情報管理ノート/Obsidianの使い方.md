@@ -7,10 +7,13 @@ tags:
 aliases:
 related:
 ---
-# Obsidian調査
-
+# Obsidianの使い方
+### 資料
  Obsidianで何がどこまでできるか研究
 [ここからはじめる - Obsidian 日本語ヘルプ - Obsidian Publish](https://publish.obsidian.md/help-ja/%E3%81%93%E3%81%93%E3%81%8B%E3%82%89%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B)
+[Obsidianと組み合わせるＡＩ比較](https://roompine.com/obsidian-ai-comparison-1/)
+[Obsidian : おじいさんの隠居小屋](http://blog.livedoor.jp/izo_arts-ojiisannisshi/archives/cat_546171.html)
+
 
 ## Obsidian で整理するコツ
 
@@ -45,7 +48,6 @@ related:
 
 ### Copilot
 [Obsidian Copilot 3.0.0/3.0.1徹底レビュー！](https://ryo-camera.com/entry/obsidian-copilot-3-0-0-review)
-
 
 
 ### Smart Composer

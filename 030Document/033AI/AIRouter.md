@@ -2,6 +2,7 @@
 created: 2025-11-02
 tags:
 aliases:
+related:
 ---
 ## AI Router
 AIの利用で、APIを使う場合、課金される。

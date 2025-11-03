@@ -4,6 +4,7 @@ tags:
 aliases:
 related:
 ---
+
  ```dataview
 table time-played, length, rating
 from "games"
