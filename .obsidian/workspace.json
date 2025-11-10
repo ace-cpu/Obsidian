@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "030Document/031情報管理/情報管理のためのツール.md",
+                "file": "010Inbox/備忘メモ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "情報管理のためのツール"
+              "title": "備忘メモ"
             }
           }
         ]
@@ -233,8 +233,9 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "d16df9d80b652dc7",
+  "active": "05c8683fa1f7ef0c",
   "lastOpenFiles": [
+    "030Document/031情報管理/情報管理のためのツール.md",
     "030Document/031情報管理/情報管理ノート.md",
     "000Index/情報管理.md",
     "030Document/051自己管理/従来の情報.md",
@@ -265,7 +266,6 @@
     "030Document/031情報管理ノート/Markdownの記法.md",
     "030Document/031情報管理ノート/Obsidianの使い方.md",
     "030Document/031情報管理ノート/情報管理ノート.md",
-    "010Inbox/備忘メモ.md",
     "999Test/Campas.canvas",
     "030Document/035Python",
     "010Inbox/Pasted image 20251102153725.png",
