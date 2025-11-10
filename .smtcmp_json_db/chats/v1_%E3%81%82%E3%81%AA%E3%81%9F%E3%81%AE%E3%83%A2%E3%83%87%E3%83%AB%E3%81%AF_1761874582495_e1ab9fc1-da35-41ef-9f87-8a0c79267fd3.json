@@ -1,0 +1,165 @@
+{
+  "id": "e1ab9fc1-da35-41ef-9f87-8a0c79267fd3",
+  "title": "あなたのモデルは",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "あなたのモデルは",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nあなたのモデルは\n\n"
+        }
+      ],
+      "id": "d27675a2-a342-4314-a20b-335684a34b98",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "000MainNote/情報管理ノート.md"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "かいわできない？",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nかいわできない？\n\n"
+        }
+      ],
+      "id": "68fb9f3a-9a86-49ea-8d75-bcb80358157c",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "000MainNote/情報管理ノート.md"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "これで大丈夫？",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nこれで大丈夫？\n\n"
+        }
+      ],
+      "id": "c2f778cf-16b1-477b-a784-fd3d61a62010",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "000MainNote/情報管理ノート.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "I'll help you organize your markdown file. Here's a cleaner structure for your content:\n\n<smtcmp_block filename=\"000MainNote/情報管理ノート.md\" language=\"markdown\">\n# 情報管理ノート\n\n##Obsidian\n- [[0212Obsidian使い方]]\n- [[0231Markdown]]\n\n###関連資料\n- [Obsidianと組み合わせるＡＩ比較](https://roompine.com/obsidian-ai-comparison-1/)\n- [Obsidian Copilot 3.0.0/3.0.1徹底レビュー！](https://ryo-camera.com/entry/obsidian-copilot-3-0-0-review)\n\n##Plugin/AI Tools\n- [Obsidian vakuum](https://github.com",
+      "id": "dcbf4987-8abf-4b62-9f78-32cd79cc33b7",
+      "metadata": {
+        "model": {
+          "providerId": "openrouter",
+          "providerType": "openrouter",
+          "id": "my-OR-DeepSeek-R1D",
+          "model": "deepseek/deepseek-r1-distill-llama-70b:free",
+          "promptLevel": 1,
+          "enable": true
+        }
+      }
+    }
+  ],
+  "createdAt": 1761874393021,
+  "updatedAt": 1761874582495,
+  "schemaVersion": 1
+}
