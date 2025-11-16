@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "23b0644daf9aaf88",
+        "id": "f4144a0d90361b5c",
         "type": "tabs",
         "children": [
           {
-            "id": "05c8683fa1f7ef0c",
+            "id": "9202ac5f1718e705",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "010Inbox/備忘メモ.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "備忘メモ"
+              "title": "New tab"
             }
           }
         ]
@@ -40,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -53,8 +49,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -63,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#情報管理",
+                "query": "tag:#Index",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 395.5
   },
   "right": {
     "id": "76a341157a5c0ae4",
@@ -99,7 +95,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0e4f090d38cdf158",
+            "id": "70f83aec5c61ad5b",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -114,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010Inbox/011DailyNote/2025-11-02.md",
+                "file": "010Inbox/011DailyNote/2025-11-13.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-11-02"
+              "title": "Outline of 2025-11-13"
             }
           },
           {
@@ -144,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "010Inbox/011DailyNote/2025-11-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +150,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2025-11-13"
             }
           },
           {
@@ -162,11 +159,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "010Inbox/011DailyNote/2025-11-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2025-11-13"
             }
           },
           {
@@ -214,7 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 548.5
+    "width": 508.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,42 +231,47 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "05c8683fa1f7ef0c",
+  "active": "9202ac5f1718e705",
   "lastOpenFiles": [
-    "030Document/031情報管理/情報管理のためのツール.md",
-    "030Document/031情報管理/情報管理ノート.md",
+    "030Document/031情報管理/ObsidianAI(2).md",
+    "030Document/031情報管理/ObsidianAI.md",
     "000Index/情報管理.md",
+    "README.md",
+    "000Index/English.md",
+    "000Index/00Root.md",
+    "000Index/01TagList.md",
+    "010Inbox/012Idea/FreeMemo.md",
+    "010Inbox/012Idea/備忘メモ.md",
     "030Document/051自己管理/従来の情報.md",
+    "000Index/AI.md",
+    "000Index/Python.md",
     "030Document/031情報管理/Obsidianの使い方.md",
-    "030Document/031情報管理/Markdownの記法.md",
-    "010Inbox/011DailyNote/2025-11-10.md",
-    "010Inbox/011DailyNote/2025-11-08.md",
+    "010Inbox/019DailyNote/2025-11-13.md",
+    "010Inbox/019DailyNote/2025-11-04.md",
+    "010Inbox/019DailyNote/2025-11-06.md",
+    "010Inbox/019DailyNote/2025-11-05.md",
+    "010Inbox/019DailyNote/2025-11-03.md",
+    "010Inbox/019DailyNote/2025-11-02.md",
+    "030Document/035Python/Pythonプロジェクト.md",
+    "030Document/035Python/Python環境構築.md",
+    "030Document/035Python/Pythonエディタ.md",
+    "Pasted/Pasted image 20251108001214.png",
     "Pasted/Pasted image 20251102153725.png",
+    "010Inbox/019DailyNote/2025-11-08.md",
+    "010Inbox/019DailyNote/2025-11-07.md",
+    "010Inbox/019DailyNote/2025-11-12.md",
+    "010Inbox/019DailyNote/2025-11-10.md",
+    "Pasted/Pasted image 20251113131853.png",
+    "Pasted/Pasted image 20251112095439.png",
+    "Pasted/Pasted image 20251112094751.png",
+    "Pasted/Pasted image 20251112094543.png",
+    "Pasted/Pasted image 20251112093452.png",
+    "Pasted/Pasted image 20251112093452 1.png",
     "Pasted/Pasted image 20251108001332.png",
     "Pasted/Pasted image 20251108231122.png",
-    "010Inbox/011DailyNote/2025-11-02.md",
-    "010Inbox/011DailyNote/2025-11-07.md",
-    "010Inbox/011DailyNote/2025-11-05.md",
-    "010Inbox/011DailyNote/2025-11-06.md",
-    "Pasted/Pasted image 20251108001214.png",
     "Pasted",
-    "010Inbox/011DailyNote/2025-11-07(1).md",
-    "README.md",
-    "030Document/035Python/Pythonノート.md",
-    "030Document/033AI/VibeCoding.md",
-    "030Document/033AI/生成AI.md",
-    "030Document/033AI/AIRouter.md",
-    "030Document/033AI/VibeCodingSample.md",
-    "030Document/031情報管理ノート/Notionの使い方.md",
-    "030Document/031情報管理ノート/情報管理のためのツール.md",
-    "030Document/031情報管理ノート/Markdown情報.md",
-    "030Document/031情報管理ノート/アイデアの整理・行動管理.md",
-    "030Document/031情報管理ノート/Markdownの記法.md",
-    "030Document/031情報管理ノート/Obsidianの使い方.md",
-    "030Document/031情報管理ノート/情報管理ノート.md",
     "999Test/Campas.canvas",
     "030Document/035Python",
-    "010Inbox/Pasted image 20251102153725.png",
     "910Model/copilot/memory",
     "910Model"
   ]
